@@ -1,0 +1,3 @@
+# AnimatedTextDemo
+
+DEMO REPO
